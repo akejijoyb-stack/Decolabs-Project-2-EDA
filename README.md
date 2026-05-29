@@ -96,9 +96,10 @@ Chairs recorded the highest quantity sold with 562 units.
 Printers and laptops also demonstrated strong customer demand.
 Phones recorded the lowest quantity sold among all product categories.
 Product demand remained relatively balanced across categories.
+Product Quantity Trend Screenshot
 
 
-Revenue values showed moderate variation, with a few high-value tr💰 Revenue by Product Analysis
+💰 Revenue by Product Analysis
 
 A product revenue analysis was conducted to evaluate the contribution of each product category to total sales revenue.
 
@@ -106,4 +107,71 @@ Key Findings
 Chairs generated the highest revenue at approximately $197.6K.
 Printers and laptops also contributed significantly to overall revenue.
 Phones generated the lowest revenue among all product categories.
-Revenue distribution across products remained relatively balanced.ansactions significantly exceeding the average order value.
+Revenue distribution across products remained relatively balanced.
+Revenue by Product Screenshot
+
+
+💳 Payment Method Analysis
+
+A payment method analysis was conducted to understand customer transaction preferences.
+
+Key Findings
+Online payments were the most commonly used transaction method with 258 orders.
+Cash payments followed closely behind with 246 transactions.
+Credit card, debit card, and gift card transactions showed relatively balanced usage levels.
+Customer transactions were distributed across multiple payment channels.
+📷 Payment Method Screenshot
+
+📦 Order Status Analysis
+
+An order status analysis was conducted to evaluate fulfillment performance and transaction completion patterns.
+
+Key Findings
+Cancelled orders recorded the highest transaction count with 250 orders.
+Returned orders were also significantly high at 247 transactions.
+Pending and shipped orders accounted for a substantial portion of total transactions.
+Delivered orders recorded relatively lower counts compared to cancelled and returned orders.
+The distribution of order statuses suggests potential operational inefficiencies or fulfillment challenges.
+📷 Order Status Screenshot
+
+
+📣 Referral Source Analysis
+
+A referral source analysis was conducted to evaluate customer acquisition channels based on generated revenue.
+
+Key Findings
+Instagram generated the highest revenue contribution at approximately $275.3K.
+Email campaigns also contributed strongly to total revenue generation.
+Google and Facebook generated relatively similar revenue contributions.
+Referral traffic recorded the lowest revenue contribution among all channels.
+Revenue generation across referral channels remained relatively balanced.
+📷 Referral Source Screenshot
+
+🚨 Outlier Analysis
+
+An outlier analysis was conducted using the Total Price variable to identify unusually high transaction values.
+
+Key Findings
+The average order value across the dataset was approximately $1,053.97.
+Most transactions remained within a moderate price range.
+The highest observed transaction value was approximately $3,353.75, which is more than three times higher than the average order value.
+These high-value transactions indicate the presence of revenue outliers within the dataset.
+The identified outliers may represent bulk purchases, premium customers, or unusually large orders.
+📷 Outlier Analysis Screenshot
+
+💡 Overall Insights
+Customer spending patterns remained relatively stable across the dataset.
+Chairs consistently demonstrated strong performance in both quantity sold and revenue generated.
+Instagram emerged as the strongest-performing referral channel.
+Payment methods showed balanced customer adoption across multiple transaction options.
+High cancellation and return rates may indicate operational or customer satisfaction challenges.
+Revenue outliers contributed disproportionately to total sales performance.
+
+📌 Conclusion
+
+The exploratory data analysis successfully uncovered key trends, patterns, and operational insights within the dataset. Product performance, customer transaction behavior, referral effectiveness, and revenue distribution were evaluated using descriptive statistics and pivot table analysis. The project also identified operational concerns such as high cancellation and return rates alongside the presence of high-value transaction outliers. These findings provide a strong analytical foundation for future dashboard development and advanced business intelligence analysis.
+
+👨‍💻 Author
+
+Joy Akeji
+DecodeLabs Data Analytics Internship – Batch 2026
