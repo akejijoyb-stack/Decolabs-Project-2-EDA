@@ -21,7 +21,8 @@ Summarize meaningful business insights from the data
 🛠️ Tools Used
 Microsoft Excel
 Pivot Tables
-Excel Charts & Visualizations
+Excel Charts
+
 📂 Dataset Description
 
 The dataset contains transactional e-commerce records with the following columns:
@@ -74,7 +75,8 @@ The average order value was approximately $1,053.97, indicating moderate custome
 Revenue values showed moderate variation, with a few high-value transactions significantly exceeding the average order value.
 
 Descriptive Statistics Screenshot
-![Descriptive Statistics](images/descriptive_statistics.png)
+<img width="1365" height="730" alt="Statistic" src="https://github.com/user-attachments/assets/6c39d946-bb0d-4b8d-baf8-d6915bb1971e" />
+
 
 📈 Revenue Trend Analysis
 
@@ -84,12 +86,14 @@ Key Findings
 Revenue was highest in 2023, generating approximately $552.6K in sales.
 Revenue declined slightly in 2024 to approximately $480.2K.
 The 2025 dataset contains partial-year data, resulting in lower total recorded revenue.
-Revenue increased progressively from January to June 2025, indicating improving sales activity during the observed period.
+Revenue increased progressively from January to June 2025, indicating improved sales activity during the observed period.
 June recorded the highest monthly revenue in 2025.
+<img width="1365" height="728" alt="Revenue trend" src="https://github.com/user-attachments/assets/c6a5efe6-b774-46d2-8690-b02567ab380a" />
+
 
 📦 Product Quantity Trend Analysis
 
-A product trend analysis was performed using quantity sold across different product categories.
+A product trend analysis was performed using the quantity sold across different product categories.
 
 Key Findings
 Chairs recorded the highest quantity sold with 562 units.
@@ -97,6 +101,7 @@ Printers and laptops also demonstrated strong customer demand.
 Phones recorded the lowest quantity sold among all product categories.
 Product demand remained relatively balanced across categories.
 Product Quantity Trend Screenshot
+<img width="1365" height="577" alt="Products Trend" src="https://github.com/user-attachments/assets/8dc4361a-4d17-4d35-ab7d-e47fc936fad9" />
 
 
 💰 Revenue by Product Analysis
@@ -109,6 +114,7 @@ Printers and laptops also contributed significantly to overall revenue.
 Phones generated the lowest revenue among all product categories.
 Revenue distribution across products remained relatively balanced.
 Revenue by Product Screenshot
+<img width="1360" height="729" alt="Revenue by product" src="https://github.com/user-attachments/assets/8c8dbabd-2365-49ed-ad30-042e5b496044" />
 
 
 💳 Payment Method Analysis
@@ -121,6 +127,7 @@ Cash payments followed closely behind with 246 transactions.
 Credit card, debit card, and gift card transactions showed relatively balanced usage levels.
 Customer transactions were distributed across multiple payment channels.
 📷 Payment Method Screenshot
+<img width="1365" height="723" alt="Payment Trend" src="https://github.com/user-attachments/assets/81ed0a3c-a061-4e5c-ae52-9787e25f0232" />
 
 📦 Order Status Analysis
 
@@ -133,6 +140,7 @@ Pending and shipped orders accounted for a substantial portion of total transact
 Delivered orders recorded relatively lower counts compared to cancelled and returned orders.
 The distribution of order statuses suggests potential operational inefficiencies or fulfillment challenges.
 📷 Order Status Screenshot
+<img width="1365" height="725" alt="Order status" src="https://github.com/user-attachments/assets/18625c48-2e7d-4e9a-becf-6955a76292c3" />
 
 
 📣 Referral Source Analysis
@@ -146,6 +154,7 @@ Google and Facebook generated relatively similar revenue contributions.
 Referral traffic recorded the lowest revenue contribution among all channels.
 Revenue generation across referral channels remained relatively balanced.
 📷 Referral Source Screenshot
+<img width="1364" height="716" alt="Referral Source" src="https://github.com/user-attachments/assets/17cf41f0-3af2-4d56-a72e-6b8d3ccd9d06" />
 
 🚨 Outlier Analysis
 
@@ -158,6 +167,7 @@ The highest observed transaction value was approximately $3,353.75, which is mor
 These high-value transactions indicate the presence of revenue outliers within the dataset.
 The identified outliers may represent bulk purchases, premium customers, or unusually large orders.
 📷 Outlier Analysis Screenshot
+<img width="1363" height="725" alt="Outlier Analysis" src="https://github.com/user-attachments/assets/6bb02ff0-1448-4b80-a6f6-69decd80643c" />
 
 💡 Overall Insights
 Customer spending patterns remained relatively stable across the dataset.
@@ -169,7 +179,7 @@ Revenue outliers contributed disproportionately to total sales performance.
 
 📌 Conclusion
 
-The exploratory data analysis successfully uncovered key trends, patterns, and operational insights within the dataset. Product performance, customer transaction behavior, referral effectiveness, and revenue distribution were evaluated using descriptive statistics and pivot table analysis. The project also identified operational concerns such as high cancellation and return rates alongside the presence of high-value transaction outliers. These findings provide a strong analytical foundation for future dashboard development and advanced business intelligence analysis.
+The exploratory data analysis successfully uncovered key trends, patterns, and operational insights within the dataset. Product performance, customer transaction behavior, referral effectiveness, and revenue distribution were evaluated using descriptive statistics and pivot table analysis. The project also identified operational concerns, such as high cancellation and return rates, as well as high-value transaction outliers. These findings provide a strong analytical foundation for future dashboard development and advanced business intelligence analysis.
 
 👨‍💻 Author
 
